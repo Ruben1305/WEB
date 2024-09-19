@@ -5,3 +5,5 @@
 En cada bando hay diferentes personajes que puedes escoger.
 
 ![Personajes R6](R6.png).
+
+El 
