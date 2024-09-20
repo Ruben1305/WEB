@@ -22,5 +22,6 @@ El *ranking* de los mejores clubes són:
 - Ninjas in Pyjamas
 - Wolves Esports
 
-## Consejos para jugar
+## Otros puntos de interés
 Haz clic en este enlaçe para poder ver consejos sobre como jugar ([**Consejos**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
+haz clic en este enlaçe para poder comunicarte con los otros jugadores ([**Comunicación**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
