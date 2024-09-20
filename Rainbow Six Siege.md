@@ -11,7 +11,7 @@ En cada bando hay diferentes personajes que puedes escoger. Estos son todos los 
 ![Personajes R6](R6.png)
 
 
-Los creadores de este juego *R6* es una empresa famosa llamada [**Ubisoft**](https://www.ubisoft.com/es-es/game/rainbow-six/siege) el juego se tiene que comprar cuesta 20,00€
+Los creadores de este juego *R6* es una empresa famosa llamada [**Ubisoft**](https://www.ubisoft.com/es-es/game/rainbow-six/siege) el juego se tiene que comprar cuesta ***20,00€***
 
 Al igual que en todos los juegos hay un apartado de Esports competitivo en el que hay un **mundial** para llegar a ser el mejor club.
 
@@ -24,4 +24,5 @@ El *ranking* de los mejores clubes són:
 
 ## Otros puntos de interés
 Haz clic en este enlaçe para poder ver consejos sobre como jugar ([**Consejos**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
-haz clic en este enlaçe para poder comunicarte con los otros jugadores ([**Comunicación**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
+
+haz clic en este enlaçe para poder comunicarte con los otros jugadores ([**Comunicación**](https://github.com/Ruben1305/WEB/blob/main/Comunicaci%C3%B3n.md))
