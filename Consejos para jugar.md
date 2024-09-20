@@ -1,1 +1,1 @@
-#Consejos para jugar
+# Consejos para jugar
