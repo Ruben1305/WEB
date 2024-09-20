@@ -23,6 +23,7 @@ El *ranking* de los mejores clubes són:
 - Wolves Esports
 
 ## Consejos para jugar
+Haz clic en este enlaçe para poder ver consejos sobre como jugar ([**Consejos**](https://www.ubisoft.com/es-es/game/rainbow-six/siege))
 
  - Hay diferentes mapas en el juego donde depende del mapa en el que estes jugando hay que elegir a un personaje o otro.
  - Para aprender a juagar se recomienda ver a gente que lo juega bien y analizar su jugada. [**Caramelo**](https://www.youtube.com/@CarameloYT)
