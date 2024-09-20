@@ -11,3 +11,5 @@ En la foto se puede ver como hay tres escaleras una en el centro y dos a los cos
   - La del centro se llama escalera de principal o de caracol por su forma
 
 En la entrada se puede ver como una puerta con pilares esa zona se llama entrada principal o *Princi*
+
+En la parte izquierda se puede ver unas cosas azules por hay los atacantes pueden entrar y esa zona se llama piano, está conectada con escaleras amarillas.
