@@ -1,10 +1,10 @@
 # Rainbow Six Siege
 
-Rainbow Six Siege (*R6*) és un juego donde hay **dos** bandos uno atacante que lo que intenta es conseguir desmontar una bomba gracias a una herramienta llamada ***defuser*** se peude ganar de dos formas desmontando las bombas o eliminando a todo el equipo contrario, y el lado defensor lo tiene que evitar lo puede conseguir de dos formas una de ellas es eliminar a todo el equipo contrario o consiguiendo que se acabe el tiempo de la ronda.
+Rainbow Six Siege (*R6*) es un juego donde hay **dos** bandos uno atacante que lo que intenta es conseguir desmontar una bomba gracias a una herramienta llamada ***defuser*** se puede ganar de dos formas desmontando las bombas o eliminando a todo el equipo contrario, y el lado defensor lo tiene que evitar lo puede conseguir de dos formas una de ellas es eliminar a todo el equipo contrario o consiguiendo que se acabe el tiempo de la ronda.
 
-En cada partida y en cada bando son grupos de **5** asi que es recomendable jugar con 4 amigos mas para poder disfrutar al maximo del juego.
+En cada partida y en cada bando son grupos de **5** así que es recomendable jugar con 4 amigos más para poder disfrutar al máximo del juego.
 
-Para conseguir ganar la partida es al mejor de 4 rondas i si por casualidad se llegara al 3 ; 3 se va a una prorroga en el que es el que gane 2.
+Para conseguir ganar la partida es al mejor de 4 rondas y si por casualidad se llegara al 3 ; 3 se va a una prórroga en el que es el que gane 2.
 
 En cada bando hay diferentes personajes que puedes escoger. Estos son todos los personajes.
 
@@ -23,6 +23,6 @@ El *ranking* de los mejores clubes són:
 - Wolves Esports
 
 ## Otros puntos de interés
-Haz clic en este enlaçe para poder ver consejos sobre como jugar ([**Consejos**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
+Haz clic en este enlace para poder ver consejos sobre como jugar ([**Consejos**](https://github.com/Ruben1305/WEB/blob/main/Consejos%20para%20jugar.md))
 
-haz clic en este enlaçe para poder comunicarte con los otros jugadores ([**Comunicación**](https://github.com/Ruben1305/WEB/blob/main/Comunicaci%C3%B3n.md))
+haz clic en este enlace para poder comunicarte con los otros jugadores ([**Comunicación**](https://github.com/Ruben1305/WEB/blob/main/Comunicaci%C3%B3n.md))
