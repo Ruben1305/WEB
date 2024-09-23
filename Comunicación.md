@@ -1,7 +1,7 @@
 # Comunicación con tus compañeros 
-Un paso muy importante para poder mejorar en el juego es saber dar informacion a tus compañeros de donde se enuentran los enemigos, como por ejemplo: estan en la ventana, entran por la puerta o estan en las escaleras de principal.
+Un paso muy importante para poder mejorar en el juego es saber dar información a tus compañeros de donde se encuentran los enemigos, como por ejemplo: están en la ventana, entran por la puerta o están en las escaleras de principal.
 
-  - Lo primero para dar buena *info* a tus compañeros es saber bien el mapa yo pondre como ejemplo el mapa de consulado
+  - Lo primero para dar buena *info* a tus compañeros es saber bien el mapa yo pondré como ejemplo el mapa de consulado
 
 ![Consulado](consulado.png)
 
