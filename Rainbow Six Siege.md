@@ -6,7 +6,9 @@ En cada partida y en cada bando son grupos de **5** así que es recomendable jug
 
 Para conseguir ganar la partida es al mejor de 4 rondas y si por casualidad se llegara al 3 ; 3 se va a una prórroga en el que es el que gane 2.
 
-En cada bando hay diferentes personajes que puedes escoger. Estos son todos los personajes.
+En cada bando hay diferentes personajes que puedes escoger.
+
+Estos son todos los personajes:
 
 ![Personajes R6](R6.png)
 
